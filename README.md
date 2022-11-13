@@ -25,5 +25,6 @@ Back Propagation:
 
 # Note
 
-Make sure to have cifar-100-python in your directory for data initialization 
+Make sure to have cifar-100-python in your directory for data initialization, it can be obtained through this link:
+https://www.cs.toronto.edu/~kriz/cifar.html
 
