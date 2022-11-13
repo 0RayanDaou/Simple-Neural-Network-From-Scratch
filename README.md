@@ -9,7 +9,7 @@ Forward:
   
 Back Propagation:
 
-  ![equation]()
+  ![equation](https://latex.codecogs.com/svg.image?%5Cfrac%7B%5Cpartial%20f_%7Bfull%7D%7D%7B%5Cpartial%20x_%7Bi%7D%7D%20=%20W)
 
 #ReLu Layer
 
