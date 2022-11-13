@@ -22,3 +22,8 @@ Back Propagation:
 
 #Sequential Neural Network
 
+
+# Note
+
+Make sure to have cifar-100-python in your directory for data initialization 
+
