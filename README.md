@@ -59,6 +59,10 @@ The purpose of this project, is to implement a Fully Connected Layer, a Relu Lay
   - Predict function to test test data
   - Update params that will use update params of each class  
 
+# Result
+
+![acc_lr](https://user-images.githubusercontent.com/97703581/201528816-ff6e40e6-bf43-437d-8545-5f6b178f1893.png)
+
 # Note
 
 Make sure to have cifar-100-python in your directory for data initialization, it can be obtained through this link:
