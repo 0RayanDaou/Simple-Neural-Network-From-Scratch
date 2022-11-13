@@ -9,7 +9,9 @@ Forward:
   
 Back Propagation:
 
-  ![equation](https://latex.codecogs.com/svg.image?%5Cfrac%7B%5Cpartial%20f_%7Bfull%7D%7D%7B%5Cpartial%20x_%7Bi%7D%7D%20=%20W)
+  ![equation](https://latex.codecogs.com/svg.image?%5Cfrac%7B%5Cpartial%20f_%7Bfull%7D%7D%7B%5Cpartial%20x_%7Bi%7D%7D%20=%20W);
+  ![equation](https://latex.codecogs.com/svg.image?%5Cfrac%7B%5Cpartial%20f_%7Bfull%7D%7D%7B%5Cpartial%20b%7D%20=%20I_%7Bn0%7D);
+  
 
 #ReLu Layer
 
