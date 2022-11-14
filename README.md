@@ -44,6 +44,11 @@ This has helped me understand the way the netowrk works, from back propagation a
   - ![equation](https://latex.codecogs.com/svg.image?y_%7Bi,j%7D%5E%7B'%7D%20=%20y_%7Bi,j%7D%20-%20max_%7Bi,j%7D(y_%7Bi,j%7D))
   - ![equation](https://latex.codecogs.com/svg.image?z_%7Bi,j%7D%20=%20f_%7Bsoftmax%7D(y_%7Bi,j%7D)%20=%20%5Cfrac%7Be%5E%7By_%7Bi,j%7D%5E%7B'%7D%7D%7D%7B%5Csum_%7Bk%7De%5E%7By_%7Bi,k%7D%5E%7B'%7D%7D%7D)
 
+  ### Backward
+  - ![equation](https://latex.codecogs.com/svg.image?%5Cfrac%7B%5Cpartial%20z_%7Bi%7D%7D%7B%5Cpartial%20y_%7Bi%7D%7D%20=%20diag(z_%7Bi%7D)%20-%20z_%7Bi%7D%5E%7BT%7Dz_%7Bi%7D)
+  - Mulitply the above Jacobian with the gradient of the level in front of it.
+  
+  
 ## Cross-Entropy
 
  
